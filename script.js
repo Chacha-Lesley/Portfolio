@@ -159,9 +159,9 @@ function toggleChatbot() {
 
 function handleChatOption(option) {
     const responses = {
-        experience: "Chacha is a Research Manager at Reactionpower with a unique blend of skills: creative writing (working on a novel with StoryMoja), digital marketing expertise, financial analysis background, and coding abilities. She's published, mentors young writers, and teaches financial literacy!",
-        projects: "Recent projects include: A marketing analytics dashboard (React/Node.js), content sentiment analyzer (Python), Q1 2026 market research report, executive branding content, and a novel in final edits. She's also mentored 200+ students and supported 50+ women entrepreneurs!",
-        book: "Chacha is working on a novel with StoryMoja that explores the intersection of technology, ambition, and human connection in modern Kenya. The manuscript was submitted 3 days ahead of deadline - showing her discipline meets creativity!",
+        experience: "Chacha is a Research Manager at Reactionpower with a unique blend of skills: creative writing (working on a novel with StoryMoja), digital marketing expertise, financial analysis background, and coding abilities. He's published, mentors young writers, and takes a lot of walks weekly!",
+        projects: "Recent projects include: A marketing analytics dashboard (React/Node.js), content sentiment analyzer (Python), Q1 2026 market research report, executive branding content, and a novel in final edits. He's also mentored 200+ students and supported 50+ women entrepreneurs!",
+        book: "Chacha is working on a novel with StoryMoja that explores the life of one of the many forgotten African heroes not mentioned in our history books. The manuscript was submitted 3 days ahead of deadline - showing his discipline meets creativity!",
         contact: "You can reach out through the contact form on this page, connect on LinkedIn, or email directly. Chacha is open to collaborations in marketing strategy, content creation, research projects, proofreading, and mentorship opportunities!"
     };
 
